@@ -1,4 +1,4 @@
-# Social Media Do's and Don'ts Chceklist
+# Social Media Do's and Don'ts Checklist
 ## ✅ Do's
 - Maintain a professional profile
 - Use strong and secure passwords
